@@ -65,7 +65,7 @@
       <AssemblyReference>UiPath.Platform</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Github_HTTP" sap:VirtualizedContainerService.HintSize="1315,538.04" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Github_HTTP" sap:VirtualizedContainerService.HintSize="1315,794.04" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
