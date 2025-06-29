@@ -1,0 +1,48 @@
+{
+    "project": "RegressionTestValidator",
+    "workflows": [
+        {
+            "path": "RegressionTestValidator\\Main.xaml",
+            "arguments": [],
+            "variables": [],
+            "invokedWorkflows": [],
+            "activities": [
+                "NApplicationCard.Body",
+                "VerifyExecutionTypeIntoOptions",
+                "Assign.To",
+                "NTypeInto.VerifyOptions",
+                "Dictionary",
+                "VerifyExecutionTypeIntoOptions.Retry",
+                "NTypeInto",
+                "Assign",
+                "Sequence.Variables",
+                "Assign.Value",
+                "WorkflowViewStateService.ViewState",
+                "Variable",
+                "AssemblyReference",
+                "NTypeInto.Target",
+                "TextExpression.ReferencesForImplementation",
+                "String",
+                "Activity",
+                "Collection",
+                "Boolean",
+                "InArgument",
+                "Sequence",
+                "TextExpression.NamespacesForImplementation",
+                "Target",
+                "NApplicationCard.TargetApp",
+                "VerifyExecutionTypeIntoOptions.Timeout",
+                "TargetApp",
+                "DelegateInArgument",
+                "NApplicationCard",
+                "List",
+                "ActivityAction",
+                "ActivityAction.Argument",
+                "TargetAnchorable",
+                "TargetAnchorable.Anchors",
+                "OutArgument"
+            ],
+            "lastModified": "2025-06-28 12:08:30"
+        }
+    ]
+}

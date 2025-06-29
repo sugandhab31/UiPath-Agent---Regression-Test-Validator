@@ -5,6 +5,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Agentic.Activities": "[24.12.2-preview]",
+    "UiPath.Excel.Activities": "[3.1.0-preview]",
     "UiPath.System.Activities": "[25.4.3]",
     "UiPath.UIAutomation.Activities": "24.10.8"
   },
